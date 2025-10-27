@@ -67,5 +67,7 @@ The pipeline extracts raw data, cleans and transforms it, and saves the cleaned 
 
 ---
 
-## 📂 File Structure
+## OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1076078e-77e9-495c-a62d-b094ded7951b" />
 
